@@ -7,7 +7,7 @@
 .imagen-fondo{
   height:100vh;
   width:100vw;
-  background-image: url('../images/portafolio-07.png')
+  background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
 }
 
 h1{
