@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.imagen-fondo{
+  height:100vh;
+  width:100vw;
+  background-image: url('../images/portafolio-07.png')
+}
+
+h1{
+  font-size:80px;
+  color:white;
+  text-align:center;
+  text-transform: uppercase;
+  position: absolute;
+  left:50%;
+  top:50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+h2{
+  font-size:40px;
+  font:'Sora', sans-serif;
+
+  color:white;
+  text-align:center;
+  text-transform: uppercase;
+  position: absolute;
+  left:50%;
+  top:60%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+
+
+
+
+
